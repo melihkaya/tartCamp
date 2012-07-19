@@ -48,7 +48,7 @@ var oNum = oArray.length;
 								$("#"+ xArray[xNum-1]).css("background","url(img/X.png)");
 								$("#"+ oArray[oNum-1]).css("background","url(img/O.png)");
 							}
-//en son oluşan dizilerin içi okunarak kazana belirlenecek.
+//en son oluşan dizilerin içi okunarak kazanan belirlenecek.
 //yukarda takıldığım yer geçince.	
 						
 }
